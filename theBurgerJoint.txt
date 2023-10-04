@@ -6,3 +6,6 @@ Menu:
     2) The Smashing Burger
 
     text to show the difference
+    
+    3) The fogiving Burger
+    4) The Vegan Burger
